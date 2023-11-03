@@ -7,7 +7,7 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "tauri-prototype",
+    "productName": "proto-rs",
     "version": "0.1.0"
   },
   "tauri": {
@@ -29,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "gmeiner.leander.dhbw.se",
+      "identifier": "proto-rs.dhbw.se",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "tauri-prototype",
+        "title": "proto-rs",
         "width": 800
       }
     ],
