@@ -1,7 +1,10 @@
-# Setup
+# yaac-rust-prototype
+Full-Stack YAAC Prototype writen in Rust.
+
+## Setup
 OpenCV needs to be set up accordingly. Follow the instructions on [their page](https://crates.io/crates/opencv)
 
-# Running the project
+## Running the project
 To run the project in developer mode execute:
 ```bash
 npm run tauri dev
