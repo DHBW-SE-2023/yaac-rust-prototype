@@ -1,5 +1,5 @@
 {
-	"name": "tauri-prototype",
+	"name": "proto-rs",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
