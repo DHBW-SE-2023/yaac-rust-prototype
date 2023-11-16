@@ -1,0 +1,9 @@
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/core_graphics_types-97afa0d140925616.rmeta: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/base.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/geometry.rs
+
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/libcore_graphics_types-97afa0d140925616.rlib: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/base.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/geometry.rs
+
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/core_graphics_types-97afa0d140925616.d: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/base.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/geometry.rs
+
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/lib.rs:
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/base.rs:
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/core-graphics-types-0.1.2/src/geometry.rs:

@@ -1,0 +1,9 @@
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/intl_pluralrules-b023b193151978fa.rmeta: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/operands.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/rules.rs
+
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/libintl_pluralrules-b023b193151978fa.rlib: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/operands.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/rules.rs
+
+/Users/danielsiegert/Desktop/DHBW/Software Engineering Project/gitRustProto/yaac-rust-prototype/EMail/target/debug/deps/intl_pluralrules-b023b193151978fa.d: /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/lib.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/operands.rs /Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/rules.rs
+
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/lib.rs:
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/operands.rs:
+/Users/danielsiegert/.cargo/registry/src/index.crates.io-6f17d22bba15001f/intl_pluralrules-7.0.2/src/rules.rs:
